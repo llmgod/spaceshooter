@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://media.tenor.com/a4EezxXG7lMAAAAi/bat-pixel.gif" width="100" />
+  <img src="https://i.gifer.com/1b1I.gif" width="100" />
   
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Space+Shooter+(Demo);2D+Arcade+Project;Developed+on+Unity" alt="Typing SVG" /></a>
 
-  <img src="https://media.tenor.com/yE7Q09uG19EAAAAi/divider-gothic.gif" width="400" />
+  <img src="https://i.gifer.com/C7Yk.gif" width="400" />
 </div>
 
 ## Описание проекта
@@ -21,7 +21,7 @@ Space Shooter — это 2D-аркада, разрабатываемая на д
 3. **Множитель очков:** Временное увеличение награды за уничтожение препятствий и вражеских единиц.
 
 <div align="center">
-  <img src="https://media.tenor.com/yE7Q09uG19EAAAAi/divider-gothic.gif" width="400" />
+  <img src="https://i.gifer.com/C7Yk.gif" width="400" />
 </div>
 
 ## Управление
@@ -36,5 +36,5 @@ Space Shooter — это 2D-аркада, разрабатываемая на д
 * **Особенности архитектуры:** Объектно-ориентированный подход (наследование для системы врагов), применение сопрограмм (Coroutines) для оптимизации логики спавна.
 
 <div align="center">
-  <img src="https://media.tenor.com/q1d06m0T9Y0AAAAi/bats-flying.gif" width="300" />
+  <img src="https://i.gifer.com/Z1Bv.gif" width="300" />
 </div>
